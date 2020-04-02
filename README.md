@@ -1,2 +1,4 @@
 # Moving-Average-
 Hadoop Java 
+
+POJO MOVING AVERAGE PROBLEM SOLUTION 
